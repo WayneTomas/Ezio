@@ -2,8 +2,11 @@
 
 Simplified version of the C language compiler
 //using c++ 11,VS2012
+
 //It just a small project to practice Principle of Compiler,so there may be many imperfections.
+
 //You can just use it just as a conference or you can help me do it better.
+
 //Thank you for all that you have watched this.
 
 2016.5.15
@@ -16,9 +19,13 @@ like 0x12,3e4 and i use current string to match the keywords table,this process 
 # Ezio
 
 简化版的C语言编译器
+
 //使用了c++ 11,VS2012
+
 //这仅仅是一个为了练习编译原理的小型项目，所以可能有很多不完善的地方。
+
 //你可以仅仅把它作为一个参考，或者你可以帮我做的更好
+
 //谢谢每一个看过这个项目的人
 
 2016.5.15
