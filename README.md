@@ -6,7 +6,7 @@ Simplified version of the C language compiler
 
 //It just a small project to practice Principle of Compiler,so there may be many imperfections.
 
-//You can just use it just as a conference or you can help me do it better.
+//You can use it just as a conference or you can help me do it better.
 
 //Thank you for all that you have watched this.
 
