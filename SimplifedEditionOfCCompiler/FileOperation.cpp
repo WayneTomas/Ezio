@@ -61,7 +61,7 @@ FileOperation::FileOperation(const string& filePath)
 string FileOperation::getFilePath()
 {
 	string filePath;
-	cout<<"请输入文件路径:(e.g C:/test/test.c)"<<endl;
+	cout<<"Input source file:(e.g C:/test/test.c)"<<endl;
 	cin>>filePath;
 	return filePath;
 }
