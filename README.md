@@ -13,9 +13,9 @@ Simplified version of the C language compiler
 So far i have finished lexer on the whole.But,there is still a lot to be improved.For example,this lexer can not identify number
 like 0x12,3e4 and i use current string to match the keywords table,this process can be more fast.
 
-                                                                                         /\_/\                        
-                                                                                        (=^o^=)  wayne     
-                                                                                        (~)@(~)  一辈子，用心做一件事！
+                                                                           /\_/\                        
+                                                                          (=^o^=)  wayne     
+                                                                          (~)@(~)  一辈子，用心做一件事！
 
 # Ezio
 
@@ -33,6 +33,6 @@ like 0x12,3e4 and i use current string to match the keywords table,this process 
 目前，我大体上完成了词法分析器。但是仍然存在很多可以改进的地方。比如，这个词法分析器不能正确识别像0x12，3e4这样的数字。并且，我
 使用了当前字符串匹配关键字表的做法，这个过程可以变得更快。
 
-                                                                                           /\_/\                        
-                                                                                          (=^o^=)  wayne     
-                                                                                          (~)@(~)  一辈子，用心做一件事！
+                                                                            /\_/\                        
+                                                                           (=^o^=)  wayne     
+                                                                           (~)@(~)  一辈子，用心做一件事！
